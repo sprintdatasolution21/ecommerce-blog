@@ -1,0 +1,9 @@
+{
+    "tmdbApi": {
+        "url": "https://api.themoviedb.org/3/search/movie?query=",
+        "key": "&api_key=1ea0032729792ad137a22e825999a51e",
+        "imagePathPr" : "https://image.tmdb.org/t/p/w500",
+        "headerLogoSrc": "https://www.themoviedb.org/assets/static_cache/9b3f9c24d9fd5f297ae433eb33d93514/images/v4/logos/408x161-powered-by-rectangle-green.png"
+    }
+
+}
